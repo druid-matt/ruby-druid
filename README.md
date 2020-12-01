@@ -1,6 +1,6 @@
 # ruby-druid
 
-A ruby client for [druid](http://druid.io).
+A ruby client for [Apache Druid](https://druid.apache.org).
 
 ## This repo has moved
 
